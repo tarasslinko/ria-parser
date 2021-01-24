@@ -1,0 +1,3 @@
+rootProject.name='ria parser'
+
+include 'server'
